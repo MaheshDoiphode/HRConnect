@@ -1,0 +1,3 @@
+Your email template here
+Regards,<br \>
+<a href="linkedin.com/in/profile">Name</a>
